@@ -1,0 +1,28 @@
+a{
+
+    
+    color: azure;
+    padding: 5px;
+    text-decoration:none;
+    
+}
+
+ul li{
+    text-decoration: none;
+}
+
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-decoration: none;
+    
+}
+
+
+body, html{
+    background-color: blue;
+}
